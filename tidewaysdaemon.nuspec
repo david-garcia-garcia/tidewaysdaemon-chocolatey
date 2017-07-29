@@ -37,7 +37,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <title>Tideways Daemon</title>
     <authors>David García García, deivid dot garcia dot garcia at gmail dot com</authors>
     <!-- projectUrl is required for the community feed -->
-    <projectUrl>https://tideways.io/profiler/docs/reference/daemon</projectUrl>
+    <projectUrl>https://github.com/david-garcia-garcia/tidewaysdaemon-chocolatey</projectUrl>
     <iconUrl>https://www.tideways.io/img/logo-invert.svg</iconUrl>
     <!-- <copyright>Year Software Vendor</copyright> -->
     <!-- If there is a license Url available, it is is required for the community feed -->
@@ -49,7 +49,7 @@ This is a nuspec. It mostly adheres to https://docs.nuget.org/create/Nuspec-Refe
     <!--<bugTrackerUrl></bugTrackerUrl>-->
     <tags>tideways admin</tags>
     <summary>The Tideways telemetry/profiler windows service daemon</summary>
-    <description>Tideways profiler daemon</description>
+    <description>Tideways profiler daemon: https://tideways.io/profiler/docs/reference/daemon</description>
     <!-- <releaseNotes>__REPLACE_OR_REMOVE__MarkDown_Okay</releaseNotes> -->
     <!-- =============================== -->      
 
